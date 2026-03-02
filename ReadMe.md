@@ -1,4 +1,4 @@
-# Hi there, I'm Nikhil Mistari 👋
+# <img src="https://media.giphy.com/media/hvRJCLzz8CztfW4xtr/giphy.gif" width="28"> Hi, I'm Nikhil Mistari
 
 ### 🤖 Full Stack Developer | Open Source Enthusiast
 
@@ -13,7 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-# <img src="https://media.giphy.com/media/hvRJCLzz8CztfW4xtr/giphy.gif" width="28"> Hi, I'm [Your Name]
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Explorer;Problem+Solver" alt="Typing SVG" />
