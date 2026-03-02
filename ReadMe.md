@@ -1,5 +1,20 @@
-# 💫 About Me:
-# Hi there, I'm [Nikhil]! 👋<br><br>### 🤖 Aspiring GenAI Engineer | MERN Full-Stack Developer | Data Science Enthusiast<br><br>I am a highly motivated developer focused on the intersection of **Generative AI** and **Full-Stack Web Development**. I specialize in building scalable applications that leverage **Large Language Models (LLMs)** and the **MERN Stack** to solve real-world problems.<br><br>---<br><br>### 🚀 Technical Toolbox<br><br>**Core Technologies:**<br>* **Languages:** Python, JavaScript (ES6+), HTML5, CSS3<br>* **AI/ML:** Generative AI, LLMs, RAG, Prompt Engineering, NLP Basics, Machine Learning Fundamentals<br>* **Full-Stack (MERN):** React.js, Node.js, Express.js, MongoDB<br>* **Tools:** Git, GitHub, VS Code, Postman<br><br>---<br><br>### 🛠️ What I'm Working On<br><br>* **GenAI & RAG:** Building intelligent systems that use Retrieval-Augmented Generation to chat with custom datasets.<br>* **MERN Applications:** Developing responsive, full-stack web apps with secure backend integrations and dynamic frontends.<br>* **Data Analysis:** Using Python to extract insights from complex data and visualize them effectively.<br><br>---<br><br>### 🏆 Featured Projects<br><br>#### [Project Name 1: AI-Powered Application]<br>* **Tech Stack:** React, Node.js, OpenAI API/LangChain, MongoDB.<br>* **Key Feature:** Implemented a RAG-based chatbot that allows users to query their own PDF documents.<br>* [Link to Repo]<br><br>#### [Project Name 2: MERN E-Commerce/Dashboard]<br>* **Tech Stack:** MongoDB, Express, React, Node.js.<br>* **Key Feature:** Built a full CRUD application with JWT authentication and real-time data updates.<br>* [Link to Repo]<br><br>---<br><br>### 📊 GitHub Stats<br><br>![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=radical)<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&theme=radical)<br><br>---<br><br>### 📫 Connect with Me<br><br>* **LinkedIn:** [Link to your Profile]<br>* **Portfolio:** [Link to your Portfolio Site]<br>* **Email:** [Your Email Address]<br><br>---<br>*"Passionate about building the bridge between data-driven insights and user-centric applications."*
+# Hi there, I'm [Your Name] 👋
+
+### 🤖 Full Stack Developer | Open Source Enthusiast
+
+- 🔭 I’m currently working on **Exam System**
+- 🌱 I’m currently learning **Next.js and Rust**
+- ⚡ Fun fact: **I drink more coffee than water.**
+
+---
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### 📈 GitHub Stats
+![Your Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
 
 
 ## 🌐 Socials:
