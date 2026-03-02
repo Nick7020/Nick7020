@@ -1,4 +1,6 @@
-# <img src="https://media.giphy.com/media/hvRJCLzz8CztfW4xtr/giphy.gif" width="28"> Hi, I'm Nikhil Mistari
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&animation=fadeIn&fontAlignY=35" />
+</p># <img src="https://media.giphy.com/media/hvRJCLzz8CztfW4xtr/giphy.gif" width="28"> Hi, I'm Nikhil Mistari
 
 ### 🤖 Full Stack Developer | Open Source Enthusiast
 
@@ -32,12 +34,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nick7020E&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&animation=fadeIn&fontAlignY=35" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&animation=fadeIn&fontAlignY=35" />
-</p>
+
+
 ---
 
 ### 🛠 My Toolbox
