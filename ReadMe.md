@@ -15,9 +15,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJueXp4eXp4eXp4eXp4eXp4eXp4eXp4eXp4eXp4eXp4eXAmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/SWoSkN6DxTszqIKEqv/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJueXp4eXp4eXp4eXp4eXp4eXp4eXp4eXp4eXp4eXp4eXAmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/L7K6A1MOfM5sX3zTfF/giphy.gif" width="120">
 </p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Explorer;Problem+Solver" alt="Typing SVG" />
