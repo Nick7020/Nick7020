@@ -29,8 +29,8 @@
   </a>
 </p>
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick7020&layout=compact&theme=tokyonight&langs_count=6" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nick7020E&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&animation=fadeIn&fontAlignY=35" />
