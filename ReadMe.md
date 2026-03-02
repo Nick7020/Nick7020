@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&animation=fadeIn&fontAlignY=35" />
-</p># <img src="https://media.giphy.com/media/hvRJCLzz8CztfW4xtr/giphy.gif" width="28"> Hi, I'm Nikhil Mistari
+</p><img src="https://media.giphy.com/media/hvRJCLzz8CztfW4xtr/giphy.gif" width="28"> Hi, I'm Nikhil Mistari
 
 ### 🤖 Full Stack Developer | Open Source Enthusiast
 
