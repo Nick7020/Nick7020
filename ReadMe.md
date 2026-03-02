@@ -20,12 +20,24 @@
 </p>
 
 ---
-
-### 💫 About Me
-- 🔭 I’m currently working on **Gen AI Project**
-- 🚀 Pronouns: **He** (or your preference)
-- ⚡ Fun fact: **I code better when it's raining.**
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+[Name];I'm+a+Full+Stack+Developer;I+love+building+cool+apps;Always+learning+new+tech" alt="Typing SVG" />
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,python,git,vscode,figma,tailwind&perline=6" />
+  </a>
+</p>
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick7020&layout=compact&theme=tokyonight&langs_count=6" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&animation=fadeIn&fontAlignY=35" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&animation=fadeIn&fontAlignY=35" />
+</p>
 ---
 
 ### 🛠 My Toolbox
