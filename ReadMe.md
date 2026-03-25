@@ -33,10 +33,6 @@
 
 </p>
 ---
-
-
----
-
 ### 🛠 My Toolbox
 <p align="left">
   <a href="https://skillicons.dev">
