@@ -21,7 +21,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Nikhil;'I am+a+Full+Stack+Developer;I+love+building+cool+apps;Always+learning+new+tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Nikhil;'Im+a+Full+Stack+Developer;I+love+building+cool+apps;Always+learning+new+tech" alt="Typing SVG" />
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
