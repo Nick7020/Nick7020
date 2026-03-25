@@ -58,10 +58,6 @@
 
 ---
 
-### 🐍 Snake Contribution Map
-
-
----
 
 ### 🤝 Connect with me
 <p align="left">
@@ -69,7 +65,7 @@
 <a href="https://twitter.com/YOUR_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
 ### 📈 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=Nick7020&show_icons=true&theme=radical)
 
 
 ## 🌐 Socials:
